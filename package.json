@@ -1,0 +1,26 @@
+{
+  "name": "vue-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Vue + Webpack Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "keywords": [
+    "vue",
+    "webpack",
+    "boilerplate"
+  ],
+  "author": "Alexander Odell <alextrastero@gmail.com> (https://twitter.com/alextrastero)",
+  "license": "ISC",
+  "devDependencies": {
+    "vue-loader": "^10.3.0",
+    "vue-template-compiler": "^2.1.10",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "dependencies": {
+    "vue": "^2.1.10"
+  }
+}
